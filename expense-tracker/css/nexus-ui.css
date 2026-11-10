@@ -1,0 +1,2 @@
+/* Single-file bundle entry: imports every theme layer in order (index.html links them individually). */
+@import url('variables.css');@import url('base.css');@import url('layout.css');@import url('components.css');@import url('effects.css');
