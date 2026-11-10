@@ -1,5 +1,0 @@
-body{background-image:radial-gradient(900px 500px at 85% -10%,rgba(138,92,255,.28),transparent 60%),radial-gradient(700px 400px at -10% 20%,rgba(53,224,255,.16),transparent 60%),linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:auto,auto,44px 44px,44px 44px;background-attachment:fixed}
-.btn{box-shadow:0 0 22px rgba(53,224,255,.35)}
-.ring svg{filter:drop-shadow(0 0 14px rgba(138,92,255,.5))}
-dialog{box-shadow:0 0 60px rgba(53,224,255,.25)}
-@media(prefers-reduced-motion:reduce){*{transition:none!important}}
